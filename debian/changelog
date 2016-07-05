@@ -1,0 +1,27 @@
+ros-indigo-rbcar-pad (1.0.3-0trusty) trusty; urgency=high
+
+  * modified dependencies
+  * Contributors: carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Mon, 04 Jul 2016 22:00:00 -0000
+
+ros-indigo-rbcar-pad (1.0.2-0trusty) trusty; urgency=high
+
+  * Added dependencies
+  * Contributors: carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Sun, 03 Jul 2016 22:00:00 -0000
+
+ros-indigo-rbcar-pad (1.0.1-0trusty) trusty; urgency=high
+
+  * Added website
+  * Modified dependencies
+  * rbcar_description: changing 3d sensor position to fit with the real model
+  * rbcar_pad: enabling params like max speed and steering angle
+  * Adding compilation dependencies with robotnik_msgs
+  * Adding new package rbcar_pad for sim and real robot
+  * Contributors: RomanRobotnik, Usuario, carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Sun, 03 Jul 2016 22:00:00 -0000
+
+
