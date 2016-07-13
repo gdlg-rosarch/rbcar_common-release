@@ -1,0 +1,39 @@
+ros-kinetic-rbcar-pad (1.0.5-0jessie) jessie; urgency=high
+
+
+
+ -- Román Navarro <rnavarro@robotnik.es>  Tue, 12 Jul 2016 22:00:00 -0000
+
+ros-kinetic-rbcar-pad (1.0.4-0jessie) jessie; urgency=high
+
+
+
+ -- Román Navarro <rnavarro@robotnik.es>  Tue, 05 Jul 2016 22:00:00 -0000
+
+ros-kinetic-rbcar-pad (1.0.3-0jessie) jessie; urgency=high
+
+  * modified dependencies
+  * Contributors: carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Mon, 04 Jul 2016 22:00:00 -0000
+
+ros-kinetic-rbcar-pad (1.0.2-0jessie) jessie; urgency=high
+
+  * Added dependencies
+  * Contributors: carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Sun, 03 Jul 2016 22:00:00 -0000
+
+ros-kinetic-rbcar-pad (1.0.1-0jessie) jessie; urgency=high
+
+  * Added website
+  * Modified dependencies
+  * rbcar_description: changing 3d sensor position to fit with the real model
+  * rbcar_pad: enabling params like max speed and steering angle
+  * Adding compilation dependencies with robotnik_msgs
+  * Adding new package rbcar_pad for sim and real robot
+  * Contributors: RomanRobotnik, Usuario, carlos3dx
+
+ -- Román Navarro <rnavarro@robotnik.es>  Sun, 03 Jul 2016 22:00:00 -0000
+
+
