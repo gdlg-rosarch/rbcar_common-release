@@ -1,3 +1,29 @@
+## rbcar_common (kinetic) - 1.0.5-1
+
+The packages in the `rbcar_common` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic rbcar_common --edit` on `Mon, 05 Sep 2016 07:55:55 -0000`
+
+These packages were released:
+- `rbcar_common`
+- `rbcar_description`
+- `rbcar_pad`
+
+Version of package(s) in repository `rbcar_common`:
+
+- upstream repository: https://github.com/RobotnikAutomation/rbcar_common.git
+- release repository: https://github.com/RobotnikAutomation/rbcar_common-release.git
+- rosdistro version: `1.0.5-0`
+- old version: `1.0.5-0`
+- new version: `1.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## rbcar_common (kinetic) - 1.0.5-0
 
 The packages in the `rbcar_common` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic rbcar_common --edit` on `Wed, 13 Jul 2016 07:35:28 -0000`
